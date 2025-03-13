@@ -221,6 +221,7 @@ else {
       }
       
       console.log('winning team:', winningTeam());
+     
       function mostPointsScored() {
         
         let maxPoints = 0;
